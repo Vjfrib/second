@@ -1,0 +1,7 @@
+button{
+  background-color: blueviolet;
+}
+
+button-md, .button-md:hover:not(.disable-hover) {
+  background-color: rebeccapurple;
+}
